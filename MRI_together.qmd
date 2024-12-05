@@ -15,14 +15,14 @@ format:
 ::: {.column width="60%"}
 
 - Post Doctoral Fellow at the Donders Institute for Brain, Cognition and Behaviour in Nijmegen, the Netherlands
-- Involved in a various Open Science Initiatives (OSSIG, Brainhack.org)
-- Mentoring (Nebula, OLS)
-- Teaching (DRA, ReproRehab)
-- Presentations (lab, OHBM)
-- Open Source Initiatives (scikit learn, the Turing way)
-- Researcher Behind a DataTallks.club podcast
-- (Still) secretary of RSE Australia Asia
-- Pet projects (physio)
+- Involved in a various Open Science Initiatives ([OSSIG](https://ossig.netlify.app/), [Brainhack.org](https://brainhack.org/))
+- Mentoring ([Nebula TOPS NASA](https://we-are-ols.org/nebula/), [Open Life Sciences (OLS)](https://we-are-ols.org/) )
+- Teaching ([Digital Research Academy (DRA)](https://digital-research.academy/), [Repronim](https://www.repronim.org/))
+- Editor at Journal for Open Source Software ([JOSS](https://joss.theoj.org/))
+- Open Source Contributions ([scikit learn](https://scikit-learn.org/stable/), [the Turing way](https://book.the-turing-way.org/index.html))
+- Researcher Behind a [DataTallks.club podcast](https://datatalks.club/)
+- (Still) secretary of [Research Software Engineering Australia Asia chapter](https://rse-aunz.org/)
+- Pet projects ([PhysIO](https://www.nitrc.org/projects/physio/))
 
 :::
 
