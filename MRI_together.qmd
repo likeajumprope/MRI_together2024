@@ -4,9 +4,220 @@ format:
     footer: <https://github.com/EmilHvitfeldt/quarto-revealjs-earth>
 ---
 
-## .theme-title1 {.theme-title1 .center}
+## Sustainable volunteering {.theme-title1 .center}
 
-### quarto-revealjs-earth
+### Short-term and in between - challenges and rewards
+### Johanna Bayer
+
+## About me {.theme-slide2 .scrollable}
+:::: {.columns}
+
+::: {.column width="60%"}
+
+- Post Doctoral Fellow at the Donders Institute for Brain, Cognition and Behaviour in Nijmegen, the Netherlands
+- Involved in a various Open Science Initiatives (OSSIG, Brainhack.org)
+- Mentoring (Nebula, OLS)
+- Teaching (DRA, ReproRehab)
+- Presentations (lab, OHBM)
+- Open Source Initiatives (scikit learn, the Turing way)
+- Researcher Behind a DataTallks.club podcast
+- (Still) secretary of RSE Australia Asia
+- Pet projects (physio)
+
+:::
+
+::: {.column width="40%"}
+![](imgs/Soxi.png){height=500}
+:::
+::::
+
+## Working definition of volunteering {.theme-slide2}
+
+- “Activity to the greater benefit of a group of people/the world that one undertakes that is not directly or visibly associated with material rewards”
+
+### Careful: HOPE LABOR
+
+- “Activity that one undertakes in the hope that it will lead to a (significant) reward although this has never been specifically communicated.”
+- Is what I am doing volunteering or is it hope labor?
+
+## Volunteering {.theme-title2 .center}
+### TIPS AND TRICKS 
+
+## Volunteering {.theme-slide2}
+:::: {.columns}
+
+::: {.column width="70%"}
+I am not an expert, but I am still here …
+
+Check your motivation
+
+For most people, volunteering is internally motivated
+
+- Does it spark joy?
+- The way is the goal
+
+:::
+
+::: {.column width="30%"}
+![](imgs/joy.png){height=600}
+:::
+
+::::
+
+## Volunteering {.theme-slide2 .scrollable}
+
+2. Find your strengths and easy wins
+
+- What is something that I am really excited about?
+- What is something that I am really passionate about?
+
+Volunteering can have many faces
+
+Personally, I would recommend to work with people
+
+But volunteering can also be:
+
+- create a youtube channel and educate the world about your topic 
+- Write on a blog
+- mentor
+
+## Volunteering {.theme-slide4 .scrollable}
+
+3 Maximize your returns
+
+* Talk about it: Visibility
+
+* Blog posts
+
+* CV
+
+* Recommendations/Networking
+
+* Community
+
+Real life example:
+
+  - Johanna uses a new tool (that she is really exited about) to create a web based slideshow for her talk at MRI together
+  - Johanna upload all your work to Zenodo and get a DOI to make it citable
+  - Johanna also gets a DOI for the github repo the talk lives in
+
+## Volunteering {.theme-slide2 .scrollable}
+
+4. Share wins and work in a community
+
+- Working together reduced the load
+- Working together is more fun
+- Working together broadens your network and your horizon
+
+Real life example:
+
+- Johanna really enjoys book dash weeks at the Turing Institute 
+
+## Volunteering {.theme-slide2 .scrollable}
+
+5. Minimize friction and losses
+
+- Sustainable in a broader sense:
+- Online tools allow for participation without travel time/costs/emissions
+- If an engagement does not fit in your life anymore, it can be paused - and re-activated if fit
+- Communicate your feelings/life with your community
+
+Real life example:
+
+- Johanna paused a lot of her activities in the two months before she moved back from Australia to Europe.
+
+## Volunteering {.theme-slide2 .scrollable}
+
+6 Take care of yourself
+
+- It’s a marathon, not a sprint
+- Set boundaries
+- Make yourself heard
+
+Real life example:
+
+- Johanna has a headache from  looking at the screen all day and cancels all her evening meetings to go to bed.
+- Johanna prioritizes her running & exercise and the well-being of her cat
+
+## Volunteering {.theme-slide2 .scrollable}
+
+7. Reflect
+
+- Have regularly schedule thought sessions on your past experiences
+- Be proud of yourself
+- Adjust your future volunteering practices 
+
+## Volunteering {.theme-slide2 .scrollable}
+
+8. Sustainable for everyone
+
+- Choose zoom invites over travel
+- Share time zone load
+- Focus on projects with a sustainable outcome 
+- For example, Open Science 
+
+
+## CHALLENGES AND REWARDS {.theme-section1 .center}
+
+## CHALLENGES {.theme-slide3 .scrollable}
+
+- Living in Australia made it REALLY HARD to contribute internationally
+- Sometimes, people are not willing to share the time zone load
+  + 9-5 vs 5-9 
+- Often, volunteering happens after a day’s work
+  + If you’re lucky, during “borrowed time” (time that you need to make up for)
+- Sometimes, volunteering adds to the list of deadlines
+- Hard to prioritize
+- Requires some good organisation skills 
+
+## REWARDS {.theme-slide3 .scrollable}
+
+- I have learned A LOT
+- Sometimes, physical and monetary (gifts)
+- Visibility
+- Communities (!!) and Networks
+- OLS, the Turing Way
+- Collaborations
+- Opportunities
+- Friends ...
+
+
+## ACTUAL RESULTS {.theme-slide3 .scrollable}
+- Papers published in JOSS
+- Chapters in the Turing way
+- AI day at campus 
+- A git course (https://git-course.netlify.app/)
+- Brainhack global each year
+- Podcasts..
+- 5 mentees …
+..
+
+
+
+## .theme-slide3 {.theme-slide3}
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+
+## .theme-slide4 {.theme-slide4}
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## .theme-slide5 {.theme-slide5}
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## .theme-slide6 {.theme-slide6}
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## .theme-slide7 {.theme-slide7}
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## .theme-slide8 {.theme-slide8}
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
 
 ## .theme-title2 {.theme-title2 .center}
 
@@ -33,36 +244,3 @@ Quarto enables you to weave together content and executable code into a finished
 ### Another subtitle
 
 ## .theme-slide1 {.theme-slide1}
-
-### Normal slide
-
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
-
-## .theme-slide2 {.theme-slide2}
-
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
-
-## .theme-slide3 {.theme-slide3}
-
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
-
-## .theme-slide4 {.theme-slide4}
-
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
-
-## .theme-slide5 {.theme-slide5}
-
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
-
-## .theme-slide6 {.theme-slide6}
-
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
-
-## .theme-slide7 {.theme-slide7}
-
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
-
-## .theme-slide8 {.theme-slide8}
-
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
-
