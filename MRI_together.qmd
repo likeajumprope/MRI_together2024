@@ -114,14 +114,12 @@ Real life example:
 
 Real life example:
 
-- Johanna really enjoys book dash weeks at the Turing Institute 
+- Johanna really enjoys book dash weeks at the Turing Institute https://book.the-turing-way.org/community-handbook/bookdash.html
 
 ## Volunteering {.theme-slide2 .scrollable}
 
 5. Minimize friction and losses
 
-- Sustainable in a broader sense:
-- Online tools allow for participation without travel time/costs/emissions
 - If an engagement does not fit in your life anymore, it can be paused - and re-activated if fit
 - Communicate your feelings/life with your community
 
@@ -157,7 +155,7 @@ Real life example:
 - Choose zoom invites over travel
 - Share time zone load
 - Focus on projects with a sustainable outcome 
-- For example, Open Science 
+  + Open Science 
 
 
 ## CHALLENGES AND REWARDS {.theme-section1 .center}
@@ -166,20 +164,20 @@ Real life example:
 
 - Living in Australia made it REALLY HARD to contribute internationally
 - Sometimes, people are not willing to share the time zone load
-  + 9-5 vs 5-9 
 - Often, volunteering happens after a day’s work
   + If you’re lucky, during “borrowed time” (time that you need to make up for)
+  + 9-5 vs 5-9 
 - Sometimes, volunteering adds to the list of deadlines
 - Hard to prioritize
 - Requires some good organisation skills 
 
 ## REWARDS {.theme-slide3 .scrollable}
 
-- I have learned A LOT
-- Sometimes, physical and monetary (gifts)
+- I have learned A LOT and volunteering has boosted my career
 - Visibility
+- Sometimes, physical and monetary (gifts)
 - Communities (!!) and Networks
-- OLS, the Turing Way
+    + OLS, the Turing Way
 - Collaborations
 - Opportunities
 - Friends ...
