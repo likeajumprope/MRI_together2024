@@ -201,3 +201,5 @@ Real life example:
 - Brainhack global each year
 - Podcasts
 - 5 mentees ...
+
+## THANK YOU FOR LISTENING {.theme-section1 .center}
